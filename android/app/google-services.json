@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794211085413",
+    "firebase_url": "https://wasalny-acd6c-default-rtdb.firebaseio.com",
+    "project_id": "wasalny-acd6c",
+    "storage_bucket": "wasalny-acd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794211085413:android:b3538fe26652b8d239aa8c",
+        "android_client_info": {
+          "package_name": "com.example.wasalny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794211085413-80qhva96gdscagmvdgdceletu6i0enq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIR4xpMnYGOx4YtBltOk4MyE0iJGUlw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794211085413-80qhva96gdscagmvdgdceletu6i0enq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
