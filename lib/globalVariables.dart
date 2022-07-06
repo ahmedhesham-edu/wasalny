@@ -4,7 +4,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:wasalny/datamodels/driver.dart';
 import 'package:wasalny/datamodels/user.dart';
 
-String mapKey='AIzaSyBWIR4xpMnYGOx4YtBltOk4MyE0iJGUlw0';
+String mapKey='Your API key';
 final CameraPosition googlePlex = CameraPosition(
   target: LatLng(29.9970509256,31.1486147071),
   zoom: 14.4746,
