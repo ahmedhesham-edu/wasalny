@@ -1,6 +1,7 @@
 # wasalny
 
-A new Flutter project.
+uses google maps APIs and provider state management
+note : you have to add your API key in lib/global variables
 
 ## Getting Started
 
